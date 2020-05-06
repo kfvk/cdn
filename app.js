@@ -17,8 +17,8 @@
         videoSource: videoTracks[0],
         audioSource: audioTracks[0],
         fitMode: 'contain',
-        width: 320,
-        height: 240
+        width: 600,
+        height: 400
       }, (err) => {
         if (err) {
           video.pause();
