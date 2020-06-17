@@ -22,7 +22,7 @@ var chat;
             this._sharedSecret = sharedSecret;
         };
         Config._region = null;
-        Config._gatewayUrl = 'https://cloud.liveswitch.io';
+        Config._gatewayUrl = '5b5e25fe-fc2c-415f-b7e5-59c57fe6c07a';
         Config._sharedSecret = 'eac05c8656654a9ca41f22bf8f6442f202037546bcc74e70bf0ade8c903bbeaa';
         return Config;
     }());
