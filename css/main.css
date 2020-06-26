@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url( https://static1.squarespace.com/static/5bd0b56ed74562581adad05c/t/5ed0885710c5fb45a54b28f4/1590724709864/blue_music.png);
+    background-image: url("https://static1.squarespace.com/static/5bd0b56ed74562581adad05c/t/5ed0885710c5fb45a54b28f4/1590724709864/blue_music.png");
 }
 
 a {
